@@ -1,0 +1,1 @@
+./configure --prefix=/usr/local/ffmpeg-3.4.1 --enable-libx265 --enable-gpl
