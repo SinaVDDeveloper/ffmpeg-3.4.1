@@ -15,8 +15,8 @@ FFMPEG_CONFIG_FLAGS="--enable-nonfree --enable-gpl --enable-version3 --disable-s
 --prefix=$PREFIX \
 --disable-debug \
 --disable-runtime-cpudetect \
---enable-shared \
---disable-static \
+--disable-shared \
+--enable-static \
 --enable-asm \
 --enable-neon \
 --disable-doc \
